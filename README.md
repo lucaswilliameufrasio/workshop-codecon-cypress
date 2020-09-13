@@ -5,16 +5,16 @@
 ## :books: Content
 
 - 🖥 [Requirements](#requirements)
-- 📦 [Usage](#usage)
+- 📦 [Utilização](#usage)
 
 ---
 
-<h2 id="requirements">🖥 Requirements </h2>
+<h2 id="requirements">🖥 Requisitos </h2>
 
 - NodeJS
 - Git
 
-<h2 id="usage">📦 Usage</h2>
+<h2 id="usage">📦 Utilização</h2>
 
 ### Clone o repositório
 
