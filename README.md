@@ -2,7 +2,7 @@
 
 > Criado durante a Codecon 2020 no Workshop ministrado por Lucio Amorim.
 
-## :books: Content
+## :books: Sumário
 
 - 🖥 [Requirements](#requirements)
 - 📦 [Utilização](#usage)
