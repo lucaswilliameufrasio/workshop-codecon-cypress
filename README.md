@@ -4,7 +4,7 @@
 
 ## :books: Sumário
 
-- 🖥 [Requirements](#requirements)
+- 🖥 [Requisitos](#requirements)
 - 📦 [Utilização](#usage)
 
 ---
